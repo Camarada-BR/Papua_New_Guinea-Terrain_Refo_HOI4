@@ -2,6 +2,10 @@ state = {
 	id = 979
 	name = "STATE_979"
 
+	resources={
+		rubber=30
+	}
+
 	manpower = 359000
 	state_category = "rural"
 

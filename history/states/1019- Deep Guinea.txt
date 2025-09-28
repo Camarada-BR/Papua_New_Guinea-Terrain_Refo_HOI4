@@ -1,0 +1,19 @@
+state={
+	id=1019
+	name="STATE_1019"
+	provinces={
+		5135 11004 11018 12428 12931 
+	}
+	history = {
+
+	add_core_of = PNG
+	owner = AST
+	
+	}
+
+	manpower=2400
+	impassable = yes
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=wasteland
+}

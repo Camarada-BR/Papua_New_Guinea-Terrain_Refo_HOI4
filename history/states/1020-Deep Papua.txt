@@ -1,0 +1,19 @@
+state={
+	id=1020
+	name="STATE_1020"
+	provinces={
+		7570 8235 8250 10436 10990 
+	}
+	history= {
+
+		owner = INS
+		add_core_of = INS
+		
+	}
+
+	manpower=4400
+	impassable = yes
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=wasteland
+}
