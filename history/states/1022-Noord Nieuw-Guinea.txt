@@ -18,7 +18,7 @@ state={
 			12371 3
 		}
 		victory_points = {
-			1546 1 # Nabire
+			1546 2 # Nabire
 		}
 		buildings = {
 			infrastructure = 1
