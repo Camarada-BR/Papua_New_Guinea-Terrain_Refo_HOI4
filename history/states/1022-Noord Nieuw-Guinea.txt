@@ -1,0 +1,33 @@
+state={
+	id=1022
+	name="STATE_1022"
+	provinces={
+		1546 4509 4552 7529 7542 10369 10396 12371 
+	}
+	
+	state_category = pastoral
+
+	resources={
+		rubber=15
+	}
+	
+	history= {
+		owner = INS
+		add_core_of = INS
+		victory_points = {
+			12371 3
+		}
+		victory_points = {
+			1546 1 # Nabire
+		}
+		buildings = {
+			infrastructure = 1
+			12371 = {
+				naval_base = 2
+			}
+		}
+	}
+	manpower=75500
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,21 @@
+state={
+	id=1021
+	name="STATE_1021"
+	provinces={
+		1602 1617 1629 4593 7269 7627 10505 12457 
+	}
+
+	state_category = pastoral
+	
+	history= {
+		owner = INS
+		add_core_of = INS
+		victory_points = {
+			10505 1 # Merauke
+		}
+	}
+
+	manpower=72800
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
